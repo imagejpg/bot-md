@@ -3,9 +3,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['62895417147428','62895417147428','6285248884252']
-global.packname = 'ꪶ𝑺𝑨𝑳𝑬𝑯 ✇ 𝑴𝑶𝑫𝑺🜏ꫂ'
-global.author = 'ꪶ𝑺𝑨𝑳𝑬𝑯 ✇ 𝑴𝑶𝑫𝑺🜏ꫂ'
+global.owner = ['6288905534200','628']
+global.packname = 'NtuyXd'
+global.author = 'NtuyXd'
 global.sessionName = 'data'
 global.prefa = ['','!','.','#']
 global.ownername = 'Owner'
